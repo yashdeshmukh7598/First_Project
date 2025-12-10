@@ -1,2 +1,2 @@
 # My First Project
-This repository serves as demo project for a todo app.
+This repository serves as demo project for a to do app.
